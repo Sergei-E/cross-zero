@@ -1,0 +1,121 @@
+body {
+    background: url(fon.jpg) no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+form {
+    width: 700px;
+    height: 700px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#zag {
+    padding-top: 50px;
+    margin: auto;
+    border: 2px;
+    height: auto;
+    width: auto;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 50px;
+    text-shadow: -10px 5px 10px black;
+}
+
+#smena {
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-left: 250px;
+    background-color: transparent;
+    border: 0px solid #FFFFFF;
+    font-size: 25px;
+}
+
+#pole {
+    width: 550px;
+    height: 550px;
+    margin: auto;
+    border: 10px solid#FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    box-shadow: -20px 20px 20px;
+}
+
+#okno {
+    width: 100px;
+    height: 100px;
+    border: 2px solid#FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    color: #FFFFFF;
+    font-size: 80px;
+    font-family: cursive;
+    box-shadow: 1px 1px 30px black;
+}
+
+#New {
+    margin-top: 30px;
+    margin-left: 250px;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    font-family: cursive;
+    background-color: black;
+    box-shadow: -10px 10px 10px black;
+    color: #FFFFFF;
+    border: 0px solid black;
+    border-radius: 15px;
+}
+
+#New:hover {
+    background-color: #FFFFFF;
+    color: black;
+}
+
+.rez {
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    margin-top: 40px;
+    border: 0px solid #FFFFFF;
+    color: #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+    text-shadow: -10px 5px 10px black;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 500;
+    text-align: center;
+    color: #FFFFFF;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: black;
+    box-shadow: -10px 10px 10px black;
+}
+
+p:hover {
+    border: 2px solid #FFFFFF;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    color: black;
+}
+
+#ty {
+    margin-left: 220px;
+}
